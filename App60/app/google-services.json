@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "492564523904",
+    "firebase_url": "https://newew-task-default-rtdb.firebaseio.com",
+    "project_id": "newew-task",
+    "storage_bucket": "newew-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492564523904:android:b2739794ce4b6eed9e6f65",
+        "android_client_info": {
+          "package_name": "com.example.app60"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492564523904-7bq55lb8ikfpkf4f65m4tfdpm19urd7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app60",
+            "certificate_hash": "f8c69951a37b09bcd20ebda7cf77c15346a125bd"
+          }
+        },
+        {
+          "client_id": "492564523904-8g3el9b0tm8meqao2pa6scteqmhol74g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4yMMOl5FlZkzt_-QG5lQFaqZhpSxLBx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492564523904-8g3el9b0tm8meqao2pa6scteqmhol74g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
